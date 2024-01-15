@@ -6,11 +6,11 @@ I am an enthusiastic Frontend Software Developer located in Toronto, Canada, wit
 
 </div>
 
-- 🔭 I’m currently working on a MERN stack real estate application
+- 🔭 I’m currently working on an article summarizer using the OpenAI model
   
 - 🌱 I’m currently learning Node JS
   
-- 💬 Ask me about HTML, CSS, JavaScript, React
+- 💬 Ask me about JavaScript, React
   
 - 👨‍💻 All of my projects are available on https://hersicodes.netlify.app/
   
