@@ -8,7 +8,7 @@ I am an enthusiastic Frontend Software Developer located in Toronto, Canada, wit
 
 - 🔭 I’m currently working on an article summarizer using the OpenAI model
   
-- 🌱 I’m currently learning Node JS
+- 🌱 I’m currently learning Next JS
   
 - 💬 Ask me about JavaScript, React
   
