@@ -2,7 +2,7 @@
 
 <div align="center">
 
-I am an enthusiastic Frontend Software Developer located in Toronto, Canada, with a keen interest in designing and deploying effective frontend web applications.
+I am an enthusiastic Frontend Software Developer with a keen interest in designing and deploying effective frontend web applications.
 
 </div>
 
