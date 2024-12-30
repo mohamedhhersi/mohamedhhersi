@@ -6,9 +6,7 @@ I am an enthusiastic Software Engineer with a keen interest in designing and dep
 
 </div>
 
-- 🔭 I’m currently working on an article summarizer using the OpenAI model
-  
-- 🌱 I’m currently learning Next JS
+- 🔭 I'm currently working on building a Wellness Habit Tracker app using React, Next.js, and TypeScript
   
 - 💬 Ask me about JavaScript, React
   
