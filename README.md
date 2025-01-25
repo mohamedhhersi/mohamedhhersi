@@ -2,7 +2,7 @@
 
 <div align="center">
 
-I am an enthusiastic Software Engineer with a keen interest in designing and deploying effective frontend web applications.
+I am an enthusiastic Software Engineer with a keen interest in designing and developing effective frontend web applications.
 
 </div>
 
